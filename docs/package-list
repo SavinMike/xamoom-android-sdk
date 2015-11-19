@@ -1,3 +1,4 @@
-at.theengine.android.bestlocation
-com.xamoom.android.xamoomcontentblocks
-com.xamoom.android.xamoomcontentblocks.ViewHolders
+com.xamoom.android
+com.xamoom.android.mapping
+com.xamoom.android.mapping.ContentBlocks
+com.xamoom.android.request
