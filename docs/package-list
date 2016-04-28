@@ -1,4 +1,7 @@
-com.xamoom.android
-com.xamoom.android.mapping
-com.xamoom.android.mapping.ContentBlocks
-com.xamoom.android.request
+com.xamoom.android.xamoomcontentblocks
+com.xamoom.android.xamoomcontentblocks.Helper
+com.xamoom.android.xamoomcontentblocks.ViewHolders
+com.xamoom.android.xamoomsdk
+com.xamoom.android.xamoomsdk.Enums
+com.xamoom.android.xamoomsdk.Resource
+com.xamoom.android.xamoomsdk.Utils
